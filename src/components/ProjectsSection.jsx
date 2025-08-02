@@ -7,8 +7,8 @@ const projects = [
     description: "A beautiful full-stack AI-powered web application that generates personalized travel itineraries based on user input using React and Tailwind.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Firebase", "Google Gemini AI"],
-    demoUrl: "https://full-stack-ai-trip-planner.vercel.app/",
-    githubUrl: "https://github.com/Shidhanjali/TripGenius",
+    demoUrl: "https://trip-genius-ai-trip-planner-g5l7.vercel.app/",
+    githubUrl: "https://github.com/Shidhanjali/TripGenius-AI_Trip_Planner",
   },
   {
     id: 2,
